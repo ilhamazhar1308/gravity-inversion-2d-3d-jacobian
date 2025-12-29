@@ -120,7 +120,7 @@ density_inversion_rho
 - Not intended for operational field interpretation
 
 ## Author
-M. Ilham Azhar, Indra Saputra, Geraldy Purba, Yarra Rizky, Paula
+Ilham Azhar, Indra Saputra, Geraldy Purba, Yarra Rizky, Paula
 
 Geophysics Engineering
 
