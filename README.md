@@ -122,7 +122,7 @@ density_inversion_rho
 ## Author
 Ilham Azhar, Indra Saputra, Geraldy Purba, Yarra Rizky, Paula
 
-Geophysics Engineering
+Geophysical Engineering
 
 Sumatera Institute Of Technology
 
