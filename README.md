@@ -126,5 +126,9 @@ Geophysical Engineering
 
 Sumatera Institute Of Technology
 
+## Disclaimer
+This program was developed as a final project for an academic course. It has undergone testing and supervision by the course instructor and can be used for educational purposes.
+Note: Further development, validation, and expert review are required before using it in professional or operational applications.
+
 ## License
 This repository is intended for academic and educational use. Please cite appropriately if used in publications.
