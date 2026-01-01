@@ -124,7 +124,7 @@ Ilham Azhar, Indra Saputra, Geraldy Purba, Yarra Rizky, Paula
 
 Geophysical Engineering
 
-Institute Technology of Sumatera (ITERA)
+Sumatera Institute of Technology (ITERA)
 
 ## Disclaimer
 This program was developed as a final project for an academic course. It has undergone testing and supervision by the course instructor and can be used for educational purposes.
